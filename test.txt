@@ -2,7 +2,7 @@ this is a test
 
 learning git
 
-just add a line£¬ÄãºÃÊÀ½ç
+just add a lineÂ£Â¬Ã„Ã£ÂºÃƒÃŠÃ€Â½Ã§
 
-
+learning github
 
